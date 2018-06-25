@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Court Counter</string>
+    <string name="te1">New York Knicks</string>
+    <string name="te3">Chicago Bulls</string>
+    <string name="te2">0</string>
+    <string name="te4">Fouls </string>
+    <string name="te5">0</string>
+    <string name="bu1">+ 3 Points</string>
+    <string name="bu2">+ 2 Points</string>
+    <string name="bu3">Free Throw</string>
+    <string name="bu4">END GAME</string>
+    <string name="bu5">Foul</string>
+</resources>

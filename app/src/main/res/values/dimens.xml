@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="LinearLayout_height">388dp</dimen>
+    <dimen name="LinearLayout_Width">0dp</dimen>
+    <dimen name="TextView_padding">6dp</dimen>
+    <dimen name="TextView_paddingBottom">2dp</dimen>
+    <dimen name="TextView_paddingBottom2">4dp</dimen>
+    <dimen name="TextView_Size">19sp</dimen>
+    <dimen name="TextView_marginBottom">4dp</dimen>
+    <dimen name="TextView_Size2">56sp</dimen>
+    <dimen name="TextView_Size3">17sp</dimen>
+    <dimen name="TextView_Size4">14sp</dimen>
+    <dimen name="Button_MarginLeft">24dp</dimen>
+    <dimen name="Button_MarginRight">24dp</dimen>
+    <dimen name="Button_MarginTop">8dp</dimen>
+    <dimen name="Button_MarginBottom">16dp</dimen>
+    <dimen name="Button_PaddingBottom">13dp</dimen>
+    <dimen name="View_Width">1dp</dimen>
+</resources>
